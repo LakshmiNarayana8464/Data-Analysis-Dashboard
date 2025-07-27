@@ -1,13 +1,13 @@
-# 📊 Blinkit Data Analyst Project - Power BI Dashboard
+#  Blinkit Data Analyst Project - Power BI Dashboard
 
-## 🚀 Project Title:
+##  Project Title:
 
 Blinkit Sales and Outlet Analysis
 
 
 ---
 
-🎯 Project Objective
+## Project Objective
 
 The objective of this project is to explore and analyze the sales performance, outlet characteristics, product types, and customer behavior data from Blinkit, a leading quick-commerce platform in India. Using Power BI, this dashboard provides business insights into:
 
@@ -24,7 +24,7 @@ The ultimate goal is to assist stakeholders in making informed decisions related
 
 
 
-## 📂 Dataset Used
+##  Dataset Used
 
 Name: Blinkit Sales Dataset
 
@@ -73,6 +73,19 @@ This dashboard was designed to answer the following Key Performance Indicators (
 
 ## Dashboard
 <img width="1318" height="725" alt="Dashboard" src="https://github.com/user-attachments/assets/0350acd8-a461-45a9-9c77-824e840ce60c" />
+
+## Project Insights
+
+- Tier 3 cities had the highest sales (₹472.13K).
+- Medium-sized outlets performed best in terms of sales.
+- Supermarket Type 1 contributed the most to total revenue.
+- Regular fat products sold more than low-fat ones.
+- Top-selling items: Fruits, Snacks, and Household products.
+- Peak outlet establishment year was 2018.
+
+## Final Conclusion
+
+The analysis shows that Blinkit performs best in Tier 3 areas through medium-sized supermarkets, with regular-fat and fast-moving daily items leading in sales. These insights can help Blinkit focus on expanding similar outlets and stocking top-demand categories
 
 
 
