@@ -62,13 +62,13 @@ Average Ratings
 
 4. Built Power BI Dashboard
 
-Designed interactive visuals using charts, graphs, and filters.
-Added slicers for outlet type, item type, and size.
+   Designed interactive visuals using charts, graphs, and filters.
+   Added slicers for outlet type, item type, and size.
 
 5. Analyzed Trends
 
-Identified top-performing outlets and products.
-Compared sales by region, item category, and fat content.
+   Identified top-performing outlets and products.
+   Compared sales by region, item category, and fat content.
 
 6. Presented Insights
 Shared findings with clear visuals to support data-driven decisions.
