@@ -1,6 +1,6 @@
-#📊 Blinkit Data Analyst Project - Power BI Dashboard
+📊 Blinkit Data Analyst Project - Power BI Dashboard
 
-##🚀 Project Title:
+🚀 Project Title:
 
 Blinkit Sales and Outlet Analysis
 
