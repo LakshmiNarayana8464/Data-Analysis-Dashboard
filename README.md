@@ -53,7 +53,7 @@ This dashboard was designed to answer the following Key Performance Indicators (
    Removed missing values and corrected errors.
    Standardized formats (like outlet size, item types).
 
-3. Created KPIs
+3. Created KPIs <br>
    Calculated key metrics such as:
    Total Sales
    Average Sales
