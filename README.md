@@ -71,6 +71,10 @@ This dashboard was designed to answer the following Key Performance Indicators (
 6. Presented Insights <br>
    Shared findings with clear visuals to support data-driven decisions. <br>
 
+## Dashboard
+<img width="1318" height="725" alt="Dashboard" src="https://github.com/user-attachments/assets/0350acd8-a461-45a9-9c77-824e840ce60c" />
+
+
 
 
 
