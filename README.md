@@ -47,18 +47,18 @@ This dashboard was designed to answer the following Key Performance Indicators (
 ## Project Process 
 
 1. Collected Data
-Used an Excel file containing Blinkit’s sales and outlet information.
+   Used an Excel file containing Blinkit’s sales and outlet information.
 
 2. Cleaned the Data
-Removed missing values and corrected errors.
-Standardized formats (like outlet size, item types).
+   Removed missing values and corrected errors.
+   Standardized formats (like outlet size, item types).
 
 3. Created KPIs
-Calculated key metrics such as:
-Total Sales
-Average Sales
-Number of Items
-Average Ratings
+   Calculated key metrics such as:
+   Total Sales
+   Average Sales
+   Number of Items
+   Average Ratings
 
 4. Built Power BI Dashboard
 
@@ -71,7 +71,7 @@ Average Ratings
    Compared sales by region, item category, and fat content.
 
 6. Presented Insights
-Shared findings with clear visuals to support data-driven decisions.
+   Shared findings with clear visuals to support data-driven decisions.
 
 
 
