@@ -21,3 +21,12 @@ Ratings and item visibility across the platform
 
 
 The ultimate goal is to assist stakeholders in making informed decisions related to store planning, inventory, and product focus.
+
+
+
+## 📂 Dataset Used
+
+Name: Blinkit Sales Dataset
+
+Format: Excel (https://github.com/LakshmiNarayana8464/Data-Analysis-Dashboard/blob/main/BlinkIT_Grocery_Data.xlsx)
+
